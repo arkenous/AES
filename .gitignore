@@ -1,0 +1,12 @@
+# IDEA Ignores
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac Ignore
+.DS_Store
+
+# classfiles
+.class
+out/
